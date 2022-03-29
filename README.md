@@ -1,4 +1,4 @@
-# FlexibleSERUSystem
+# Flexible SERU System
 
 ## Title: Flexible SERU Syetem: Model and Solution
 ### This is an open-source GitHub project complementary to the jornal paper, which has been submitted to "International Journal of Production Research".
